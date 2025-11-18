@@ -1,3 +1,3 @@
-function validateAge(oldEnough){
-  // add your code here
+function validateAge(oldEnough, logic){
+  if (oldEnough);
 }
